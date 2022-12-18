@@ -61,12 +61,12 @@ with st.container():
         st_lottie(lottie_coding, height=300, key="coding")
 
 # ---- Graphics ----
-import pandas as pd 
-import numpy as np 
-import matplotlib.pyplot as plt 
-import streamlit as st
-SampleData = pd.read_excel('Numunelerin yük taşıma kapasitesi.xlsx', sheet_name = 'Sayfa1') 
-cols = SampleData.columns.values.tolist()
+# import pandas as pd 
+# import numpy as np 
+# import matplotlib.pyplot as plt 
+# import streamlit as st
+# SampleData = pd.read_excel('Numunelerin yük taşıma kapasitesi.xlsx', sheet_name = 'Sayfa1') 
+# cols = SampleData.columns.values.tolist()
 #plt.figure(figsize=(8, 3))
 
 
